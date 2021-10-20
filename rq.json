@@ -1,0 +1,11 @@
+{
+  "noEmpleado":"202110001",
+  "propina":20,
+  "observacion":"",
+  "detalle": [
+    {
+      "cantidad":2,
+      "idProducto":1
+    }
+  ]
+}
